@@ -1,0 +1,9 @@
+4 50
+
+Ralph 80
+
+John 70
+
+Tom 40
+
+Young 50
